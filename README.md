@@ -42,7 +42,8 @@
 
 <a name="function"/> <h2> 📚 Functionality </h2> </a>
 
-⚠️🚧 I will add a flow chart of the basic of the function ⚠️🚧
+![Flow Chart 01](https://github.com/GitFlaviobc/ft_printf/blob/main/Images/Printf_Flowchart_01.jpg)
+![Flow Chart 02](https://github.com/GitFlaviobc/ft_printf/blob/main/Images/Printf_Flowchart_02.jpg)
 
 <p></p>
 <a href = "#content">📋</a>
