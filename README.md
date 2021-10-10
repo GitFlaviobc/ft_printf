@@ -42,7 +42,8 @@
 
 <a name="function"/> <h2> 📚 Functionality </h2> </a>
 
-![Game Gif](https://github.com/GitFlaviobc/so_long/blob/main/Images/SoLong.gif)
+![Flow Chart 01](https://github.com/GitFlaviobc/ft_printf/blob/main/Images/Printf_Flowchart_01.jpg)
+![Flow Chart 02](https://github.com/GitFlaviobc/ft_printf/blob/main/Images/Printf_Flowchart_02.jpg)
 
 <p></p>
 <a href = "#content">📋</a>
